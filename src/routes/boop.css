@@ -1,0 +1,13 @@
+img {
+  position: fixed; /* or absolute */
+  top: 30%;
+  left: 50%;
+}
+
+button {  position: fixed; /* or absolute */
+  top: 10%;
+  left: 37%;
+  font-size: 3em}
+
+a {
+  font-size: 2em}
