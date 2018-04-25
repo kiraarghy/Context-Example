@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import Highlight from 'react-highlight';
 import './boop.css';
-
+import '../../node_modules/highlight.js/styles/agate.css'
 const image =
   'https://vignette.wikia.nocookie.net/glee/images/3/31/Jeff_IEP20162.jpeg/revision/latest?cb=20160727230349';
 
